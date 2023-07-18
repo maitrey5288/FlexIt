@@ -1,2 +1,2 @@
 "# Flexify" 
-[Preview](https://flex-guide.netlify.app/)
+[Click Here](https://flex-guide.netlify.app/)
